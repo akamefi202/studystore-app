@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="椭圆_17" x="0" y="0" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#262e49" flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Select" transform="translate(1.65)">
+    <g id="椭圆_16" data-name="椭圆 16" transform="translate(0.35)" fill="none" stroke="#fafafc" stroke-width="25">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="17.5" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -1.65, 0)" filter="url(#椭圆_17)">
+      <circle id="椭圆_17-2" data-name="椭圆 17" cx="23" cy="23" r="23" transform="translate(9 7)" fill="#b0bcb2"/>
+    </g>
+    <g id="Button" transform="translate(-8.343 -3)">
+      <path id="view-thumb_88x76" data-name="view-thumb 88x76" d="M21.839,10H14.761A1.6,1.6,0,0,1,13.3,8.289V1.711A1.6,1.6,0,0,1,14.76,0h7.079A1.6,1.6,0,0,1,23.3,1.711V8.289A1.6,1.6,0,0,1,21.839,10Zm-13.3,0H1.461A1.6,1.6,0,0,1,0,8.289V1.711A1.6,1.6,0,0,1,1.46,0H8.539A1.6,1.6,0,0,1,10,1.711V8.289A1.6,1.6,0,0,1,8.539,10Z" transform="translate(27 22)" fill="none" stroke="#fff" stroke-width="1"/>
+      <path id="路径_1" data-name="路径 1" d="M-1.307,0h24" transform="translate(28 34)" fill="none" stroke="#fff" stroke-width="1"/>
+      <path id="Path" d="M8.54,10H1.461A1.6,1.6,0,0,1,0,8.289V1.711A1.6,1.6,0,0,1,1.46,0H8.539A1.6,1.6,0,0,1,10,1.711V8.289A1.6,1.6,0,0,1,8.54,10Z" transform="translate(27 36)" fill="none" stroke="#fff" stroke-width="1"/>
+      <path id="路径_2" data-name="路径 2" d="M0,0V10" transform="translate(49.3 36)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="直线_2" data-name="直线 2" y2="4" transform="translate(44.903 36.286)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="直线_3" data-name="直线 3" y2="4" transform="translate(44.903 42)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="直线_1" data-name="直线 1" y2="10" transform="translate(39.939 36)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ic_location" clip-path="url(#clip-path)">
+    <g id="ic" transform="translate(1 1)">
+      <path id="Shape" d="M9.016,10H12l2,4H0l2-4H4.987" fill="none" stroke="#353b48" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+      <path id="Shape-2" data-name="Shape" d="M7,0A4.408,4.408,0,0,0,2.5,4.31C2.5,8.19,7,12,7,12s4.5-3.81,4.5-7.69A4.408,4.408,0,0,0,7,0Z" fill="none" stroke="#353b48" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+      <circle id="Oval" cx="1.5" cy="1.5" r="1.5" transform="translate(5.5 3)" fill="none" stroke="#353b48" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="bound_16" clip-path="url(#clip-path)">
+      <rect id="bound_16-2" data-name="bound_16" width="16" height="16" fill="none"/>
+      <text id="_16" data-name="16" transform="translate(8 13)" fill="none" font-size="12" font-family="Montserrat-Regular, Montserrat"></text>
+    </g>
+  </g>
+</svg>

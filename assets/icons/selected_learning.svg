@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="椭圆_11" x="0" y="0" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#262e49" flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Select" transform="translate(1.649)">
+    <g id="椭圆_10" data-name="椭圆 10" transform="translate(0.351)" fill="none" stroke="#fafafc" stroke-width="25">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="17.5" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -1.65, 0)" filter="url(#椭圆_11)">
+      <circle id="椭圆_11-2" data-name="椭圆 11" cx="23" cy="23" r="23" transform="translate(9 7)" fill="#b0bcb2"/>
+    </g>
+    <g id="Group" transform="translate(17.351 18)">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="24" height="18" rx="2" transform="translate(1 2)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_5-2" data-name="Rectangle 5" width="4" height="2" transform="translate(6 5) rotate(90)" fill="#fff"/>
+      <rect id="Rectangle_5-3" data-name="Rectangle 5" width="2" height="2" transform="translate(9 5) rotate(90)" fill="#fff"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="16" height="2" transform="translate(5 22)" fill="#fff"/>
+      <rect id="Rectangle" width="26" height="26" fill="#fff" opacity="0"/>
+    </g>
+  </g>
+</svg>

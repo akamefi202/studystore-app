@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="椭圆_13" x="0" y="0" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#262e49" flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Home" transform="translate(2)">
+    <g id="Select">
+      <g id="椭圆_12" data-name="椭圆 12" transform="translate(0)" fill="#b0bcb2" stroke="#fafafc" stroke-width="25">
+        <circle cx="30" cy="30" r="30" stroke="none"/>
+        <circle cx="30" cy="30" r="17.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -2, 0)" filter="url(#椭圆_13)">
+        <circle id="椭圆_13-2" data-name="椭圆 13" cx="23" cy="23" r="23" transform="translate(9 7)" fill="#b0bcb2"/>
+      </g>
+    </g>
+    <g id="Icon" transform="translate(18.499 18)">
+      <path id="home-2" data-name="home" d="M24.051,11.02,12.183,0,.315,11.02a.414.414,0,0,0,.563.607l1.373-1.275v13.8H22.114v-13.8l1.373,1.275a.414.414,0,0,0,.564-.606ZM9.7,23.324V16.7a2.483,2.483,0,1,1,4.966,0v6.621Zm11.586,0H15.493V16.7a3.31,3.31,0,1,0-6.621,0v6.621H3.079V9.583l9.1-8.453,9.1,8.453Z" transform="translate(-0.183)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>

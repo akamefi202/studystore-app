@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.54" height="24.743" viewBox="0 0 24.54 24.743">
+  <g id="Home" transform="translate(0.29 0.341)" opacity="0.5">
+    <g id="Icon">
+      <path id="home-2" data-name="home" d="M24.051,11.02,12.183,0,.315,11.02a.414.414,0,0,0,.563.607l1.373-1.275v13.8H22.114v-13.8l1.373,1.275a.414.414,0,0,0,.564-.606ZM9.7,23.324V16.7a2.483,2.483,0,1,1,4.966,0v6.621Zm11.586,0H15.493V16.7a3.31,3.31,0,1,0-6.621,0v6.621H3.079V9.583l9.1-8.453,9.1,8.453Z" transform="translate(-0.183)" fill="#262e49" stroke="#262e49" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>
